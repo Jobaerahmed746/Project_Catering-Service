@@ -1,0 +1,23 @@
+.container-fluid{
+    background: aqua;
+
+}
+.collapse navbar-collapse:hover{
+     background-color: aquamarine;
+}
+
+.carousel-item{
+    text-decoration: rgb(133, 190, 171);
+}
+
+.nav-link{
+    transition: all o.2s;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid greenyellow;
+}
+
+.text{
+    text-decoration: aqua;
+}
